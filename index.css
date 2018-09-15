@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+#container  {
+    height: 100%;
+    width: 100%;
+}
+#title {
+    display: flex;
+    justify-content: center;
+}
+#days-of-week {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
