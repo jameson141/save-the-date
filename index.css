@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 
 body {
     margin: 0;
+    background-color: #6D89DF
 }
 
 #container {
@@ -41,52 +42,4 @@ body {
     flex-direction: row;
     justify-content: space-evenly;
     
-}
-
-
-=======
-body {
-    margin: 0;
-}
-
-#container {
-    height: 100%;
-    width: 100%;
-}
-
-#title {
-    display: flex;
-    justify-content: center;
-}
-
-#days-of-week {
-    display:flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
-#day-container { 
-    display: flex;
-    width: 100%;
-    height: 100%;
-    flex-direction: column;
-}
-
-.day {
-    padding: 20px;
-    width: 10%;
-    border: 1px solid #000000;
-}
-
-.row {
-    display: flex;
-    margin-top: 10px;
-    width: 100%;
-    height: 20%;
-    flex-direction: row;
-    justify-content: space-evenly;
     
-}
-
-
->>>>>>> 7cbca85b6f94baf14129fbe78bc07fb37c1743c1
